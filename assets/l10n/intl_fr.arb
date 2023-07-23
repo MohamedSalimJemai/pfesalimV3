@@ -1,0 +1,196 @@
+{
+  "@@locale": "fr",
+  "login": "Connexion",
+  "forgotPassword": "Mot de passe oublié ?",
+  "resetYourPasswordCaps": "RÉINITIALISER VOTRE MOT DE PASSE",
+  "resetYourPasswordTip": "Saisissez votre adresse e-mail et nous vous enverrons un code de confirmation.",
+  "next": "Suivant",
+  "error": "Erreur",
+  "success": "Succès",
+  "inputControlInvalid": "{field} invalide.",
+  "@inputControlInvalid": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Champ"
+      }
+    }
+  },
+  "inputControl": "{field} ne peut pas être vide.",
+  "@inputControl": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Champ"
+      }
+    }
+  },
+  "fieldDescription": "{field} :",
+  "@fieldDescription": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Champ :"
+      }
+    }
+  },
+  "email": "E-mail",
+  "password": "Mot de passe",
+  "passwordConfirmation": "Confirmation du mot de passe",
+  "firstname": "Prénom",
+  "lastname": "Nom de famille",
+  "hint": "Veuillez saisir le {yourField}.",
+  "@hint": {
+    "placeholders": {
+      "yourField": {
+        "type": "String",
+        "example": "votre champ"
+      }
+    }
+  },
+  "yourEmail": "votre adresse e-mail",
+  "language": "Langue",
+  "passwordEdited": "Mot de passe modifié avec succès",
+  "resetCode": "Code de réinitialisation",
+  "resetCodeCaps": "CODE DE RÉINITIALISATION",
+  "resetCodeTip": "Saisissez le code de réinitialisation que vous avez reçu par e-mail.",
+  "resetCodeTipAlt": "Veuillez noter que cet e-mail peut être considéré comme un courrier indésirable.",
+  "noContent": "Pas de contenu",
+  "camera": "Appareil photo",
+  "gallery": "Galerie",
+  "resetPassword": "Réinitialiser le mot de passe",
+  "@startNewInspection": {
+    "placeholders": {
+      "productStep": {
+        "type": "String",
+        "example": "Finition"
+      }
+    }
+  },
+  "save": "Enregistrer",
+  "page": "Page {pageNumber}",
+  "@page": {
+    "placeholders": {
+      "pageNumber": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "doubleDotPlaceholder": "{field} :",
+  "@doubleDotPlaceholder": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "progress": "Progression",
+  "loading": "Chargement...",
+  "select": "Sélectionner",
+  "ok": "OK",
+  "name": "Nom",
+  "description": "Description",
+  "at": "à",
+  "notice": "Remarque",
+  "warning": "Avertissement",
+  "yes": "Oui",
+  "no": "Non",
+  "products": "Produits",
+  "logout": "Déconnexion",
+  "confirmation": "Confirmation",
+  "product": "Produit",
+  "status": "Statut",
+  "custom": "Personnalisé",
+  "number": "Numéro",
+  "finished": "Terminé",
+  "youDidntChooseAnyMedia": "Vous n'avez choisi aucun média",
+  "chooseImageSource": "Choisir la source de l'image",
+  "images": "Images",
+  "finish": "Terminer",
+  "type": "Type",
+  "info": "Informations",
+  "action": "Action",
+  "edit": "Modifier",
+  "audit": "Audit",
+  "actions": "Actions",
+  "response": "Réponse",
+  "source": "Source",
+  "date": "Date",
+  "cancel": "Annuler",
+  "time": "Heure",
+  "image": "Image",
+  "chooseProductToFilterBy": "Choisir le produit pour filtrer",
+  "selectDefects": "Sélectionner des défauts",
+  "serialNumber": "Numéro de série",
+  "fieldMustBeANumber": "{field} doit être un nombre",
+  "@fieldMustBeANumber": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "networkError": "Erreur réseau",
+  "chooseElementToFilterBy": "Choisir {element} pour filtrer",
+  "@chooseElementToFilterBy": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "user": "Utilisateur",
+  "pleaseFillAtLeastOneTaskGroup": "Veuillez remplir au moins un groupe de tâches",
+  "pleaseContinueFillingTheGroup": "Veuillez continuer à remplir le groupe",
+  "invalidDate": "Date invalide",
+  "start": "Démarrer",
+  "admin": "Admin",
+  "reference": "Référence",
+  "selectImage": "Sélectionner une image",
+  "addPlaceholder": "Ajouter {element}",
+  "@addPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "editPlaceholder": "Modifier {element}",
+  "@editPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "listPlaceholder": "Liste des {element}s",
+  "@listPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "delete": "Supprimer",
+  "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer ce {element} ?",
+  "@deleteConfirmation": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "couldntLoadImage": "Impossible de charger l'image",
+  "noImage": "Aucune image",
+  "proceed": "Continuer",
+  "details": "Détails",
+  "id": "ID",
+  "order": "Commande",
+  "quantity": "Quantité",
+  "search": "Recherche",
+  "selected": "Sélectionné",
+  "lightMode": "Mode clair",
+  "darkMode": "Mode sombre",
+  "role": "Rôle"
+}

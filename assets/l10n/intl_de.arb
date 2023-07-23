@@ -1,0 +1,196 @@
+{
+  "@@locale": "de",
+  "login": "Anmelden",
+  "forgotPassword": "Passwort vergessen?",
+  "resetYourPasswordCaps": "PASSWORT ZURÜCKSETZEN",
+  "resetYourPasswordTip": "Geben Sie Ihre E-Mail-Adresse ein, und wir senden Ihnen einen Bestätigungscode.",
+  "next": "Weiter",
+  "error": "Fehler",
+  "success": "Erfolg",
+  "inputControlInvalid": "{field} ungültig.",
+  "@inputControlInvalid": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Feld"
+      }
+    }
+  },
+  "inputControl": "{field} darf nicht leer sein.",
+  "@inputControl": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Feld"
+      }
+    }
+  },
+  "fieldDescription": "{field}:",
+  "@fieldDescription": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Feld:"
+      }
+    }
+  },
+  "email": "E-Mail",
+  "password": "Passwort",
+  "passwordConfirmation": "Passwort Bestätigung",
+  "firstname": "Vorname",
+  "lastname": "Nachname",
+  "hint": "Bitte geben Sie {yourField} ein.",
+  "@hint": {
+    "placeholders": {
+      "yourField": {
+        "type": "String",
+        "example": "Ihr Feld"
+      }
+    }
+  },
+  "yourEmail": "Ihre E-Mail-Adresse",
+  "language": "Sprache",
+  "passwordEdited": "Passwort erfolgreich bearbeitet",
+  "resetCode": "Rücksetzcode",
+  "resetCodeCaps": "RÜCKSETZCODE",
+  "resetCodeTip": "Geben Sie den Rücksetzcode ein, den Sie per E-Mail erhalten haben.",
+  "resetCodeTipAlt": "Bitte beachten Sie, dass diese E-Mail als Spam markiert sein kann.",
+  "noContent": "Kein Inhalt",
+  "camera": "Kamera",
+  "gallery": "Galerie",
+  "resetPassword": "Passwort zurücksetzen",
+  "@startNewInspection": {
+    "placeholders": {
+      "productStep": {
+        "type": "String",
+        "example": "Fertigstellung"
+      }
+    }
+  },
+  "save": "Speichern",
+  "page": "Seite {pageNumber}",
+  "@page": {
+    "placeholders": {
+      "pageNumber": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "doubleDotPlaceholder": "{field}:",
+  "@doubleDotPlaceholder": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "progress": "Fortschritt",
+  "loading": "Wird geladen...",
+  "select": "Auswählen",
+  "ok": "OK",
+  "name": "Name",
+  "description": "Beschreibung",
+  "at": "um",
+  "notice": "Hinweis",
+  "warning": "Warnung",
+  "yes": "Ja",
+  "no": "Nein",
+  "products": "Produkte",
+  "logout": "Abmelden",
+  "confirmation": "Bestätigung",
+  "product": "Produkt",
+  "status": "Status",
+  "custom": "Benutzerdefiniert",
+  "number": "Nummer",
+  "finished": "Abgeschlossen",
+  "youDidntChooseAnyMedia": "Sie haben keine Medien ausgewählt",
+  "chooseImageSource": "Bildquelle wählen",
+  "images": "Bilder",
+  "finish": "Fertigstellen",
+  "type": "Typ",
+  "info": "Informationen",
+  "action": "Aktion",
+  "edit": "Bearbeiten",
+  "audit": "Audit",
+  "actions": "Aktionen",
+  "response": "Antwort",
+  "source": "Quelle",
+  "date": "Datum",
+  "cancel": "Abbrechen",
+  "time": "Zeit",
+  "image": "Bild",
+  "chooseProductToFilterBy": "Produkt zum Filtern auswählen",
+  "selectDefects": "Defekte auswählen",
+  "serialNumber": "Seriennummer",
+  "fieldMustBeANumber": "{field} muss eine Zahl sein",
+  "@fieldMustBeANumber": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "networkError": "Netzwerkfehler",
+  "chooseElementToFilterBy": "{element} zum Filtern auswählen",
+  "@chooseElementToFilterBy": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "user": "Benutzer",
+  "pleaseFillAtLeastOneTaskGroup": "Bitte füllen Sie mindestens eine Aufgabengruppe aus",
+  "pleaseContinueFillingTheGroup": "Bitte füllen Sie die Gruppe weiter aus",
+  "invalidDate": "Ungültiges Datum",
+  "start": "Start",
+  "admin": "Administrator",
+  "reference": "Referenz",
+  "selectImage": "Bild auswählen",
+  "addPlaceholder": "{element} hinzufügen",
+  "@addPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "editPlaceholder": "{element} bearbeiten",
+  "@editPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "listPlaceholder": "Liste von {element}en",
+  "@listPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "delete": "Löschen",
+  "deleteConfirmation": "Möchten Sie dieses {element} wirklich löschen?",
+  "@deleteConfirmation": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "couldntLoadImage": "Bild konnte nicht geladen werden",
+  "noImage": "Kein Bild",
+  "proceed": "Fortfahren",
+  "details": "Details",
+  "id": "ID",
+  "order": "Bestellung",
+  "quantity": "Menge",
+  "search": "Suchen",
+  "selected": "Ausgewählt",
+  "lightMode": "Hellmodus",
+  "darkMode": "Dunkelmodus",
+  "role": "Rolle"
+}

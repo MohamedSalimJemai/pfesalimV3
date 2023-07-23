@@ -1,0 +1,204 @@
+{
+  "@@locale": "en",
+  "login": "Login",
+  "forgotPassword": "Forgot password ?",
+  "resetYourPasswordCaps": "RESET YOUR PASSWORD",
+  "resetYourPasswordTip": "Type your email and we will send you a confirmation code.",
+  "next": "Next",
+  "error": "Error",
+  "success": "Success",
+  "inputControlInvalid": "{field} invalid.",
+  "@inputControlInvalid": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Field"
+      }
+    }
+  },
+  "inputControl": "{field} cant be empty.",
+  "@inputControl": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Field"
+      }
+    }
+  },
+  "fieldDescription": "{field} :",
+  "@fieldDescription": {
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "example": "Field :"
+      }
+    }
+  },
+  "email": "Email",
+  "password": "Password",
+  "passwordConfirmation": "Password confirmation",
+  "firstname": "Firstname",
+  "lastname": "Lastname",
+  "hint": "Please type the {yourField}.",
+  "@hint": {
+    "placeholders": {
+      "yourField": {
+        "type": "String",
+        "example": "your field"
+      }
+    }
+  },
+  "yourEmail": "your email",
+  "language": "Language",
+  "passwordEdited": "Password edited successfully",
+  "resetCode": "Reset code",
+  "resetCodeCaps": "RESET CODE",
+  "resetCodeTip": "Type the reset code you received in your email.",
+  "resetCodeTipAlt": "Please note that this email could be marked as spam.",
+  "noContent": "No content",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "resetPassword": "Reset password",
+  "@startNewInspection": {
+    "placeholders": {
+      "productStep": {
+        "type": "String",
+        "example": "Finition"
+      }
+    }
+  },
+  "save": "Save",
+  "page": "Page {pageNumber}",
+  "@page": {
+    "placeholders": {
+      "pageNumber": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "doubleDotPlaceholder": "{field} :",
+  "@doubleDotPlaceholder": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "progress": "Progress",
+  "loading": "Loading ..",
+  "select": "Select",
+  "ok": "Ok",
+  "name": "Name",
+  "description": "Description",
+  "at": "at",
+  "notice": "Notice",
+  "warning": "Warning",
+  "yes": "Yes",
+  "no": "No",
+  "products": "Products",
+  "logout": "Logout",
+  "confirmation": "Confirmation",
+  "product": "Product",
+  "status": "Status",
+  "custom": "Custom",
+  "number": "Number",
+  "finished": "Finished",
+  "youDidntChooseAnyMedia": "You didn't choose any media",
+  "chooseImageSource": "Choose image source",
+  "images": "Images",
+  "finish": "Finish",
+  "type": "Type",
+  "info": "Info",
+  "action": "Action",
+  "edit": "Edit",
+  "audit": "Audit",
+  "actions": "Actions",
+  "response": "Response",
+  "source": "Source",
+  "date": "Date",
+  "cancel": "Cancel",
+  "time": "Time",
+  "image": "Image",
+  "chooseProductToFilterBy": "Choose product to filter by",
+  "selectDefects": "Select defects",
+  "serialNumber": "Serial number",
+  "fieldMustBeANumber": "{field} must be a number",
+  "@fieldMustBeANumber": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "networkError": "Network error",
+  "chooseElementToFilterBy": "Choose {element} to filter by",
+  "@chooseElementToFilterBy": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "user": "User",
+  "pleaseFillAtLeastOneTaskGroup": "Please fill at least one task group",
+  "pleaseContinueFillingTheGroup": "Please continue filling the group",
+  "invalidDate": "Invalid date",
+  "start": "Start",
+  "admin": "Admin",
+  "reference": "Reference",
+  "selectImage": "Select an image",
+  "addPlaceholder": "Add {element}",
+  "@addPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "editPlaceholder": "Edit {element}",
+  "@editPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "listPlaceholder": "List of {element}s",
+  "@listPlaceholder": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "delete": "Delete",
+  "deleteConfirmation": "Are you sure you want to delete this {element} ?",
+  "@deleteConfirmation": {
+    "placeholders": {
+      "element": {
+        "type": "String"
+      }
+    }
+  },
+  "couldntLoadImage": "Couldn't load image",
+  "noImage": "No image",
+  "proceed": "Proceed",
+  "details": "Details",
+  "id": "Id",
+  "line": "Line",
+  "lines": "Lines",
+  "quantity": "Quantity",
+  "search": "Search",
+  "selected": "Selected",
+  "lightMode": "Light mode",
+  "darkMode": "Dark mode",
+  "role": "Role",
+  "clientSpace": "Client space",
+  "adminSpace": "Admin space",
+  "myProfile": "My profile",
+  "statistics": "Statistics",
+  "users": "Users",
+  "statistic": "Statistic",
+  "value": "Value"
+}

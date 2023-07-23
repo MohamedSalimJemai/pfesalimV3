@@ -1,0 +1,6 @@
+arb-dir: assets/l10n
+template-arb-file: intl_en.arb
+output-localization-file: app_localizations.dart # flutter gen-l10n
+
+# Configuration for generating JSON file with untranslated messages
+# untranslated-messages-file: untranslated_messages.json
